@@ -16,4 +16,4 @@ Before running the script, ensure you have the following files in the project di
    pip install openai
 3. **Run**
    ```sh
-   python app.py
+   python NameDecoder.py
